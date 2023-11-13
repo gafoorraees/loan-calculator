@@ -1,1 +1,1 @@
-A loan calculator network application that uses Express.js as a framework and listens to requests from the browser on port 3000. This application uses Pug template engine in order to provide the layout.
+A loan calculator network application that runs on a local Node server and uses npm packages to route HTTP requests and to serve static assets.
